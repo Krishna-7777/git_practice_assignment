@@ -5,6 +5,8 @@ function checkPrime(number){
     factors++;
     }
     }
+
     if(factors==2){ 
        return number;
+
     }}
