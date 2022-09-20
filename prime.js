@@ -6,7 +6,8 @@ function checkPrime(number){
     }
     }
 
-    if(factors==2){ 
-       return number;
-
-    }}
+     if(factors==2){ 
+       return true;
+    }
+return false
+    }
