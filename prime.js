@@ -5,5 +5,5 @@ function checkPrime(n){
     f++;
     }
     }
-    if(f==3){ console.log(n);
-    }
+    if(f==2){ console.log(n);
+    }}
